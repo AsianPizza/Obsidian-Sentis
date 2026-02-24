@@ -1,3 +1,3 @@
 [[The Primordial Serpents.base]]
 
-Tide Weaver, Aghil
+Tide Weaver, [[Aghil, The Tide Weaver]]
