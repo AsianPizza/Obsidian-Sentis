@@ -27,6 +27,6 @@ There is a darker side to these markings, however, as some have started hunting 
 
   
 
-### Road keepers
+### [[Road keepers]]
 
 Protectors of the Road have also risen in response to the God Hunters’ foul deeds. The Road keepers are an order of capable people who vow to protect the Primordial Travelers from the threat of the God Hunters. A traveller can apply for their protection if they bear the markings of the trials to make their trials just a little bit safer. There have been large numbers of travellers, however, who consider the God Hunters part of their trial. They will refuse help of any kind on the Road of Despair, deeming themselves too weak to ascend to godhood should they die by the hands of the God Hunters.
