@@ -1,0 +1,15 @@
+{
+  "ITS@@default-statblock": false,
+  "ITS@@t-d": false,
+  "ITS@@its-d": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@nord": false,
+  "ITS@@drwn": false,
+  "ITS@@ITS-Sizes": "none",
+  "ITS@@select": "wotc-beyond",
+  "ITS@@bases-non-its-styling": false,
+  "ITS@@bases-non-its-colrow-styling": false,
+  "ITS@@bases-border-lines": false,
+  "ITS@@bases-notion-cards": false
+}
